@@ -1,0 +1,13 @@
+<format best-of="1">
+	<veto>
+		<decider>
+			<match>Jungle Sunset</match>
+		</decider>
+		<options>
+			<match>Rendezvous Champions</match>
+			<match>Quintlet TE</match>
+			<match>Senex 2.5</match>
+		</options>
+		<order ban-until="1" starting-team="2" />
+	</veto>
+</format>
