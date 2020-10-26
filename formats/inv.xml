@@ -1,0 +1,15 @@
+<format best-of="3">
+    <veto>
+        <decider>
+            <match id="veto-decider">Jungle Sunset</match>
+        </decider>
+        <options>
+            <match>Jurassic</match>
+						<match>Senex 2.5</match>
+            <match>Coral Reef II</match>
+            <match>Rendezvous Champions</match>
+            <match>Quintlet TE</match>
+        </options>
+        <order ban-until="3" starting-team="2" />
+    </veto>
+</format>
