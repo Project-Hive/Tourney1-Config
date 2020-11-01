@@ -1,4 +1,4 @@
-<format best-of="3">
+<format best-of="5">
     <veto>
         <decider>
             <match id="veto-decider">Jungle Sunset</match>
@@ -11,10 +11,10 @@
             <match>Quintlet TE</match>
         </options>
       <order>
-        <pick who="2" />
-        <pick who="1" />
-        <pick who="2" />
-        <pick who="1" />
+        <pick team="2" />
+        <pick team="1" />
+        <pick team="2" />
+        <pick team="1" />
         <pick />
       </order>
     </veto>
